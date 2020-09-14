@@ -1,0 +1,13 @@
+-img wink/face_pos/face10.png -bg wink/neg.txt -info wink/crop10.txt -num 100 -w 20 -h 20
+
+-info wink/crop.txt -bg wink/neg.txt -vec wink/cropped.vec -num 200 -w 20 -h 20
+
+/home/shyloh/OpenCV/release/bin/opencv_traincascade -data . -vec cropped.vec -bg neg.txt -w 20 -h 20 -numPos 200 -numStages 13 -precalcValBufSize 1028 -precalcIdxBufSize 1028
+
+-------
+
+-img fingers/pos/fin1.png -bg fingers/neg.txt -info fingers/crop1.txt -num 50 -w 20 -h 20 -bgcolor 255 -bgthresh 12 -maxxangle 0.5 -maxyangle 0.5 -maxzangle 0.05
+
+-info fingers/crop.txt -bg fingers/neg.txt -vec fingers/cropped.vec -num 1000 -w 20 -h 20
+
+/home/shyloh/OpenCV/release/bin/opencv_traincascade -data . -vec cropped.vec -bg neg.txt -w 20 -h 20 -numPos 1000 -numNeg 500 -numStages 14 -precalcValBufSize 1028 -precalcIdxBufSize 1028 -minHitRate 0.95 -maxFalseAlarmRate 0.5 -featureType HAAR -mode ALL

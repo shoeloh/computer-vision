@@ -1,0 +1,507 @@
+<?xml version="1.0"?>
+<opencv_storage>
+<stage6>
+  <maxWeakCount>100</maxWeakCount>
+  <stageThreshold>-9.9678573608398438e+01</stageThreshold>
+  <weakClassifiers>
+    <_>
+      <internalNodes>
+        0 -1 0 1.0928279953077435e-03</internalNodes>
+      <leafValues>
+        -6.7857140302658081e-01 -6.3888889551162720e-01</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 1 1.1058722157031298e-03</internalNodes>
+      <leafValues>
+        1. -1.</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 1 1.1058722157031298e-03</internalNodes>
+      <leafValues>
+        1. -1.</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 1 1.1058722157031298e-03</internalNodes>
+      <leafValues>
+        1. -1.</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 1 1.1058722157031298e-03</internalNodes>
+      <leafValues>
+        1. -1.</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 1 1.1058722157031298e-03</internalNodes>
+      <leafValues>
+        1. -1.</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 1 1.1058722157031298e-03</internalNodes>
+      <leafValues>
+        1. -1.</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 1 1.1058722157031298e-03</internalNodes>
+      <leafValues>
+        1. -1.</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 1 1.1058722157031298e-03</internalNodes>
+      <leafValues>
+        1. -1.</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 1 1.1058722157031298e-03</internalNodes>
+      <leafValues>
+        1. -1.</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 1 1.1058722157031298e-03</internalNodes>
+      <leafValues>
+        1. -1.</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 1 1.1058722157031298e-03</internalNodes>
+      <leafValues>
+        1. -1.</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 1 1.1058722157031298e-03</internalNodes>
+      <leafValues>
+        1. -1.</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 1 1.1058722157031298e-03</internalNodes>
+      <leafValues>
+        1. -1.</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 1 1.1058722157031298e-03</internalNodes>
+      <leafValues>
+        1. -1.</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 1 1.1058722157031298e-03</internalNodes>
+      <leafValues>
+        1. -1.</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 1 1.1058722157031298e-03</internalNodes>
+      <leafValues>
+        1. -1.</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 1 1.1058722157031298e-03</internalNodes>
+      <leafValues>
+        1. -1.</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 1 1.1058722157031298e-03</internalNodes>
+      <leafValues>
+        1. -1.</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 1 1.1058722157031298e-03</internalNodes>
+      <leafValues>
+        1. -1.</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 1 1.1058722157031298e-03</internalNodes>
+      <leafValues>
+        1. -1.</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 1 1.1058722157031298e-03</internalNodes>
+      <leafValues>
+        1. -1.</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 1 1.1058722157031298e-03</internalNodes>
+      <leafValues>
+        1. -1.</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 1 1.1058722157031298e-03</internalNodes>
+      <leafValues>
+        1. -1.</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 1 1.1058722157031298e-03</internalNodes>
+      <leafValues>
+        1. -1.</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 1 1.1058722157031298e-03</internalNodes>
+      <leafValues>
+        1. -1.</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 1 1.1058722157031298e-03</internalNodes>
+      <leafValues>
+        1. -1.</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 1 1.1058722157031298e-03</internalNodes>
+      <leafValues>
+        1. -1.</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 1 1.1058722157031298e-03</internalNodes>
+      <leafValues>
+        1. -1.</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 1 1.1058722157031298e-03</internalNodes>
+      <leafValues>
+        1. -1.</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 1 1.1058722157031298e-03</internalNodes>
+      <leafValues>
+        1. -1.</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 1 1.1058722157031298e-03</internalNodes>
+      <leafValues>
+        1. -1.</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 1 1.1058722157031298e-03</internalNodes>
+      <leafValues>
+        1. -1.</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 1 1.1058722157031298e-03</internalNodes>
+      <leafValues>
+        1. -1.</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 1 1.1058722157031298e-03</internalNodes>
+      <leafValues>
+        1. -1.</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 1 1.1058722157031298e-03</internalNodes>
+      <leafValues>
+        1. -1.</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 1 1.1058722157031298e-03</internalNodes>
+      <leafValues>
+        1. -1.</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 1 1.1058722157031298e-03</internalNodes>
+      <leafValues>
+        1. -1.</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 1 1.1058722157031298e-03</internalNodes>
+      <leafValues>
+        1. -1.</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 1 1.1058722157031298e-03</internalNodes>
+      <leafValues>
+        1. -1.</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 1 1.1058722157031298e-03</internalNodes>
+      <leafValues>
+        1. -1.</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 1 1.1058722157031298e-03</internalNodes>
+      <leafValues>
+        1. -1.</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 1 1.1058722157031298e-03</internalNodes>
+      <leafValues>
+        1. -1.</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 1 1.1058722157031298e-03</internalNodes>
+      <leafValues>
+        1. -1.</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 1 1.1058722157031298e-03</internalNodes>
+      <leafValues>
+        1. -1.</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 1 1.1058722157031298e-03</internalNodes>
+      <leafValues>
+        1. -1.</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 1 1.1058722157031298e-03</internalNodes>
+      <leafValues>
+        1. -1.</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 1 1.1058722157031298e-03</internalNodes>
+      <leafValues>
+        1. -1.</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 1 1.1058722157031298e-03</internalNodes>
+      <leafValues>
+        1. -1.</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 1 1.1058722157031298e-03</internalNodes>
+      <leafValues>
+        1. -1.</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 1 1.1058722157031298e-03</internalNodes>
+      <leafValues>
+        1. -1.</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 1 1.1058722157031298e-03</internalNodes>
+      <leafValues>
+        1. -1.</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 1 1.1058722157031298e-03</internalNodes>
+      <leafValues>
+        1. -1.</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 1 1.1058722157031298e-03</internalNodes>
+      <leafValues>
+        1. -1.</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 1 1.1058722157031298e-03</internalNodes>
+      <leafValues>
+        1. -1.</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 1 1.1058722157031298e-03</internalNodes>
+      <leafValues>
+        1. -1.</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 1 1.1058722157031298e-03</internalNodes>
+      <leafValues>
+        1. -1.</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 1 1.1058722157031298e-03</internalNodes>
+      <leafValues>
+        1. -1.</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 1 1.1058722157031298e-03</internalNodes>
+      <leafValues>
+        1. -1.</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 1 1.1058722157031298e-03</internalNodes>
+      <leafValues>
+        1. -1.</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 1 1.1058722157031298e-03</internalNodes>
+      <leafValues>
+        1. -1.</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 1 1.1058722157031298e-03</internalNodes>
+      <leafValues>
+        1. -1.</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 1 1.1058722157031298e-03</internalNodes>
+      <leafValues>
+        1. -1.</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 1 1.1058722157031298e-03</internalNodes>
+      <leafValues>
+        1. -1.</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 1 1.1058722157031298e-03</internalNodes>
+      <leafValues>
+        1. -1.</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 1 1.1058722157031298e-03</internalNodes>
+      <leafValues>
+        1. -1.</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 1 1.1058722157031298e-03</internalNodes>
+      <leafValues>
+        1. -1.</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 1 1.1058722157031298e-03</internalNodes>
+      <leafValues>
+        1. -1.</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 1 1.1058722157031298e-03</internalNodes>
+      <leafValues>
+        1. -1.</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 1 1.1058722157031298e-03</internalNodes>
+      <leafValues>
+        1. -1.</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 1 1.1058722157031298e-03</internalNodes>
+      <leafValues>
+        1. -1.</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 1 1.1058722157031298e-03</internalNodes>
+      <leafValues>
+        1. -1.</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 1 1.1058722157031298e-03</internalNodes>
+      <leafValues>
+        1. -1.</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 1 1.1058722157031298e-03</internalNodes>
+      <leafValues>
+        1. -1.</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 1 1.1058722157031298e-03</internalNodes>
+      <leafValues>
+        1. -1.</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 1 1.1058722157031298e-03</internalNodes>
+      <leafValues>
+        1. -1.</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 1 1.1058722157031298e-03</internalNodes>
+      <leafValues>
+        1. -1.</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 1 1.1058722157031298e-03</internalNodes>
+      <leafValues>
+        1. -1.</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 1 1.1058722157031298e-03</internalNodes>
+      <leafValues>
+        1. -1.</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 1 1.1058722157031298e-03</internalNodes>
+      <leafValues>
+        1. -1.</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 1 1.1058722157031298e-03</internalNodes>
+      <leafValues>
+        1. -1.</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 1 1.1058722157031298e-03</internalNodes>
+      <leafValues>
+        1. -1.</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 1 1.1058722157031298e-03</internalNodes>
+      <leafValues>
+        1. -1.</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 1 1.1058722157031298e-03</internalNodes>
+      <leafValues>
+        1. -1.</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 1 1.1058722157031298e-03</internalNodes>
+      <leafValues>
+        1. -1.</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 1 1.1058722157031298e-03</internalNodes>
+      <leafValues>
+        1. -1.</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 1 1.1058722157031298e-03</internalNodes>
+      <leafValues>
+        1. -1.</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 1 1.1058722157031298e-03</internalNodes>
+      <leafValues>
+        1. -1.</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 1 1.1058722157031298e-03</internalNodes>
+      <leafValues>
+        1. -1.</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 1 1.1058722157031298e-03</internalNodes>
+      <leafValues>
+        1. -1.</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 1 1.1058722157031298e-03</internalNodes>
+      <leafValues>
+        1. -1.</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 1 1.1058722157031298e-03</internalNodes>
+      <leafValues>
+        1. -1.</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 1 1.1058722157031298e-03</internalNodes>
+      <leafValues>
+        1. -1.</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 1 1.1058722157031298e-03</internalNodes>
+      <leafValues>
+        1. -1.</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 1 1.1058722157031298e-03</internalNodes>
+      <leafValues>
+        1. -1.</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 1 1.1058722157031298e-03</internalNodes>
+      <leafValues>
+        1. -1.</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 1 1.1058722157031298e-03</internalNodes>
+      <leafValues>
+        1. -1.</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 1 1.1058722157031298e-03</internalNodes>
+      <leafValues>
+        1. -1.</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 1 1.1058722157031298e-03</internalNodes>
+      <leafValues>
+        1. -1.</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 1 1.1058722157031298e-03</internalNodes>
+      <leafValues>
+        1. -1.</leafValues></_></weakClassifiers></stage6>
+</opencv_storage>
